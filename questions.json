@@ -1,0 +1,24 @@
+{
+    "questions": [
+        {
+            "prompt": "Who set up Microsoft",
+            "options": [
+                "Bill Gates",
+                "Jeff Bezos",
+                "Steve Jobs",
+                "Elon Musk"
+            ],
+            "answer": "Bill Gates"
+        },
+        {
+            "prompt": " 2 + 2 = ...",
+            "options": [
+                "5",
+                "2",
+                "4",
+                "8"
+            ],
+            "answer": "4"
+        }
+    ]
+}
